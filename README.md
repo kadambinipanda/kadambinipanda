@@ -17,4 +17,4 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 <a href="https://www.linkedin.com/in/kadambini-panda-b730141b8/"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="50" height="50" alt="linkedin"></a>
 
 ## Some GitHub Stats
-![Kadambini's github stats](https://github-readme-stats.vercel.app/api?username=kadambinipanda&show_icons=true&theme=dracula)
+![Kadambini's github stats](https://github-readme-stats.vercel.app/api?username=kadambinipanda&show_icons=true&theme=tokyonight)
