@@ -7,7 +7,7 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 
 ### I’m currently learning:<br>
-🌱 Python | 🌱 Front-End Web Development | 🌱 Cloud Computting 
+🌱 Python | 🌱 Front-End Web Development | 🌱 Cloud Computing 
 ## Find me around the web 🌍:
 
 <a href="https://github.com/kadambinipanda">  <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="50" height="50" alt="github"> </a>
