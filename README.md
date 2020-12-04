@@ -1,4 +1,4 @@
-# Hi, I'm Kadambini 👋👩‍💻
+# Hi, I'm Kadambini <img  src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="55" height="55" alt="gif">👩‍💻
 
 <!--<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">-->
 
