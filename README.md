@@ -18,3 +18,5 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 ## Some GitHub Stats
 ![Kadambini's github stats](https://github-readme-stats.vercel.app/api?username=kadambinipanda&show_icons=true&theme=dracula)
+<!--![Visitor Count](https://profile-counter.glitch.me/{kadambinipanda}/count.svg)-->
+![image title](https://rushter.com/counter.svg)
