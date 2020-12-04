@@ -4,7 +4,7 @@
 
 I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I enjoy eating food and traveling.
 
-
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
 ### I’m currently learning:<br>
 🌱 Python | 🌱 Front-End Web Development | 🌱 Cloud Computing 
