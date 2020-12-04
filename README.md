@@ -5,7 +5,7 @@ Enthusiastic, ambitious, eager to contribute to make open source more accessible
 
 
 ### I’m currently learning:<br>
-🌱 Python | 🌱 Angular | 🌱 Driving Deeper into HTML & CSS |
+🌱 Python | 🌱 Front-End Web Development | 🌱 Cloud Computting |
 ## Find me around the web 🌍:
 <a href="https://github.com/kadambinipanda">  <img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="50" height="50" alt="github"></img> </a>
 <a href="https://twitter.com/kadambinipanda4"> <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="50" height="50" alt="twitter"></img> </a>
