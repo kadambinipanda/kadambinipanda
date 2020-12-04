@@ -1,6 +1,6 @@
 # Hi, I'm Kadambini 👋👩‍💻
 
-<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">
+<!--<img src="https://static.wikia.nocookie.net/disney/images/7/7d/Profile_-_Moana.png/revision/latest?cb=20190312030033" width="500" height="500" alt="img">-->
 
 Enthusiastic, ambitious, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.
 
