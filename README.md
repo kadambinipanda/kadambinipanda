@@ -14,14 +14,8 @@ I am an enthusiastic, ambitious developer, eager to contribute to making open so
 <!-- Social Media Icons Section -->
 <h3 style="text-align: center;">Find me around the web 🌍:</h3>
 <div style="display: flex; justify-content: center; gap: 25px; margin-bottom: 20px;">
-  <a href="https://github.com/kadambinipanda" style="transition: transform 0.2s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="GitHub" style="border-radius: 10%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
-  </a>
   <a href="https://twitter.com/kadambinipanda6" style="transition: transform 0.2s;">
     <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="50" height="50" alt="Twitter" style="border-radius: 10%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
-  </a>
-  <a href="https://www.instagram.com/kadambini27/" style="transition: transform 0.2s;">
-    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50" alt="Instagram" style="border-radius: 10%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
   </a>
   <a href="https://dev.to/kadambinipanda" style="transition: transform 0.2s;">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" width="50" height="50" alt="Dev.to" style="border-radius: 10%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
