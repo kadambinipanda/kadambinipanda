@@ -4,9 +4,6 @@ I am an enthusiastic, ambitious developer, eager to contribute to making open so
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" style="position: relative; z-index: 50;">
 
-<!-- Learning Section -->
-<h3>I’m currently learning:</h3>
-<p>🌱 Python | 🌱 Front-End Web Development | 🌱 Cloud Computing</p>
 
 <!-- Clear Floats to ensure the next content starts after the image -->
 <div style="clear: both;"></div>
